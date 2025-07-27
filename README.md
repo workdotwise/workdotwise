@@ -46,7 +46,7 @@ Explore [Hire.Wise](https://hirewise.workdotwise.co) today and see how we’re c
 ## 📫 Contact
 
 To collaborate, request a demo, or just say hello:  
-📧 contact@workdotwise.co
+📧 info@workdotwise.co
 
 ---
 
