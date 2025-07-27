@@ -52,8 +52,8 @@ To collaborate, request a demo, or just say hello:
 
 ## 📄 Legal
 
-- [Privacy Policy](https://workdotwise.co/privacy-policy)  
-- [Terms of Service](https://workdotwise.co/terms-of-service)
+- [Privacy Policy](https://workdotwise.co/privacy)  
+- [Terms of Service](https://workdotwise.co/terms)
 
 ---
 
